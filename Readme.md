@@ -1,5 +1,12 @@
 # WebGi starter project
+
+⚡️ Live Link: [http://drill-webgi-tutorial.vercel.app](http://drill-webgi-tutorial.vercel.app)
+
+<a href="http://drill-webgi-tutorial.vercel.app"><img src="assets/images/preview.jpg" style="border: 1px solid black"></a>
+
 A template for a vanilla(no ui-framework) project with webgi engine in typescript using parcel bundler.
+
+[Click here](https://www.youtube.com/watch?v=mpTZbJPYZas) or on the image to visit the Free course on Youtube.  
 
 About webgi: [https://webgi.xyz/](https://webgi.xyz/)
 
