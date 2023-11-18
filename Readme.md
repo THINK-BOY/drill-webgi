@@ -1,11 +1,12 @@
 # WebGi starter project
-
+- A template for a vanilla(no ui-framework) project with webgi engine in typescript using parcel bundler.
+  
+## Course content
 ⚡️ Live Link: [http://drill-webgi-tutorial.vercel.app](http://drill-webgi-tutorial.vercel.app)
 
 <a href="http://drill-webgi-tutorial.vercel.app"><img src="assets/images/preview.jpg" style="border: 1px solid black"></a>
 
-A template for a vanilla(no ui-framework) project with webgi engine in typescript using parcel bundler.
-## Course content
+
 On Anderson Manchini's channel,who is a creative developer you can find a **step by step** video on how to use this source code to build your own pages.
 
 - Chosing a model
